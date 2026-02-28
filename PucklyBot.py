@@ -16,7 +16,7 @@ import nest_asyncio
 nest_asyncio.apply() 
 
 bot = Bot(
-    token="7641084405:AAGwy5VauRD_91roksFkvW460Ke5tJK-VpE",
+    token="your_token",
     default=DefaultBotProperties(
         parse_mode=ParseMode.HTML 
     )
